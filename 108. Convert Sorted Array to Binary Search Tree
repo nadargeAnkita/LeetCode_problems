@@ -9,6 +9,8 @@
  *     TreeNode(int x, TreeNode *left, TreeNode *right) : val(x), left(left), right(right) {}
  * };
  */
+#include<iostream>
+using namespace std;
 class Solution {
 public:
     TreeNode* solve(vector<int>& nums, int l, int r) {
