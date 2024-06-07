@@ -1,5 +1,6 @@
 #include<iostream>
 using namespace std;
+
 class Solution {
 public:
     bool isMirror(TreeNode* root1, TreeNode* root2){
